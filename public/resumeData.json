@@ -1,0 +1,133 @@
+{
+  "main": {
+    "name":"Renato",
+    "occupation":"Software Engineer",
+    "description":"Front-End and Back-End developer. Always looking for new technologies and get aprimorating knowledgment",
+    "image":"0.jpeg",
+    "bio":"13 years about experience in back-end development and 5 years about experience in front-end development. I do that because i love it.",
+    "contactmessage":"get in contact with me.",
+    "email": "renatomateusx@gmail.com",
+    "phone": "71 9 9130-6561",
+    "address":{
+      "street":"84, José Leite",
+      "city":"Lauro de Freitas",
+      "state":"Bahia",
+      "zip": "42.722-020"
+    },
+    "website": "https://renato-mateus.firebaseapp.com",
+    "resumedownload":"https://drive.google.com/file/d/1PH04Ncbc1EM7bdGj4HlkGsWiRDEUczF6/view?usp=sharing",
+    "social":[      
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/renato-moura-49523b58/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/renatomateusx",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/renatomateusx",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"https://is.gd/6d83X8",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Jorge Amado",
+        "degree":"Graduation",
+        "graduated":"December 2012",
+        "description":"Where everyting get started."
+      }
+    ],
+    "work":[
+		{
+			"company":"SEFAZ(Capgemini)",
+			"title":"Analista de Sistemas Sênior",
+			"years":"April 2014 - Actual",
+			"description":"SPED system, maintenance and development of a SPED system collections making integration with clients services to provide a better way to get results."
+		},
+		{
+			"company":"IP3 Tecnologia",
+			"title":"Developer III",
+			"years":"Junho 2012 - April 2014",
+			"description":"Maintenance and development of a charging system making integration with clients services to provide a better way to get results."
+		},
+		{
+			"company":"WA Sistemas",
+			"title":"Developer",
+			"years":"March 2010 - December 2011",
+			"description":"ERP maintenance and development looking always to get quality on work."
+		}
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Angular",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"90%"
+      },
+      {
+        "name":"VueJs",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"60%"
+      },
+      {
+        "name":"Express",
+        "level":"70%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"100%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"TohrPDV",
+        "category":"System sales ERP",
+        "image":"tohr_pdv.jpg",
+        "url":"https://pdv.comercioparalelo.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Renato is an integral part of a group of friends and experts through the appointment of a business partner. Excellent professional, with focus and ideas that add on projects that participate..",
+        "user":"Alessandro Rodrigues"
+      },
+      {
+        "text":"Excellent professional, attentive, studious, good relationship, seeking qualification in your area always.",
+        "user":"Ana Cristina"
+      }
+    ]
+  }
+}
