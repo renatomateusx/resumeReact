@@ -9,9 +9,9 @@ import Resume from './Components/Resume';
 import Contact from './Components/Contact';
 import Testimonials from './Components/Testimonials';
 import Portfolio from './Components/Portfolio';
-
+let _URL = "https://renatomateusx.github.io/resumeReact/public/resumeData.json"
 class App extends Component {
-
+  
   constructor(props){
     super(props);
     this.state = {
@@ -25,8 +25,9 @@ class App extends Component {
   }
 
   getResumeData(){
+    //url:'/resumeData.json',
     $.ajax({
-      url:'/resumeData.json',
+      url:_URL,
       dataType:'json',
       cache: false,
       success: function(data){
