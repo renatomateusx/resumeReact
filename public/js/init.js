@@ -152,7 +152,7 @@
       $.ajax({
 
 	      type: "POST",
-	      url: "inc/sendEmail.php",
+	      url: "http://curriculo.comercioparalelo.com/sendEmail.php",
 	      data: data,
 	      success: function(msg) {
 
