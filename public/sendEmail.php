@@ -1,4 +1,5 @@
 <?php
+header('Access-Control-Allow-Origin: *');
 // Replace this with your own email address
 $siteOwnersEmail = 'renatomateusx@gmail.com';
 if($_POST) {
