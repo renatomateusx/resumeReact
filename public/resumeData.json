@@ -89,15 +89,19 @@
     "skills":[
       {
         "name":"Git",
-        "level":"60%"
+        "level":"80%"
       },
       {
         "name":"Angular",
-        "level":"55%"
+        "level":"90%"
       },
       {
         "name":"ReactJs",
-        "level":"50%"
+        "level":"80%"
+      },
+      {
+        "name":"ReactNative",
+        "level":"80%"
       },
       {
         "name":"CSS",
@@ -109,15 +113,15 @@
       },
       {
         "name":"VueJs",
-        "level":"50%"
+        "level":"90%"
       },
       {
         "name":"MongoDB",
-        "level":"60%"
+        "level":"70%"
       },
       {
         "name":"Express",
-        "level":"70%"
+        "level":"95%"
       },
       {
         "name":"GraphQL",
@@ -148,6 +152,14 @@
       {
         "text":"Excellent professional, attentive, studious, good relationship, seeking qualification in your area always.",
         "user":"Ana Cristina"
+      },
+	{
+        "text":"Excellent professional, very worry about deadline.",
+        "user":"Michel Crespo"
+      },
+	{
+        "text":"I like to work with Renato because we, together, like to discover many ways to implement a solution.",
+        "user":"Leonardo Amaral"
       }
     ]
   }
