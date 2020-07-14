@@ -15,7 +15,7 @@
       "zip": "42.722-020"
     },
     "website": "https://renato-mateus.firebaseapp.com",
-    "resumedownload":"https://drive.google.com/file/d/1PH04Ncbc1EM7bdGj4HlkGsWiRDEUczF6/view?usp=sharing",
+    "resumedownload":"https://drive.google.com/file/d/16NqMNmw3XxoRUkgkc3bhTIec5s3zoONy/view?usp=sharing",
     "social":[      
       {
         "name":"linkedin",
@@ -134,12 +134,12 @@
     ]
   },
   "portfolio":{
-    "projects": [
-      {
-        "title":"TohrPDV",
-        "category":"System sales ERP",
-        "image":"tohr_pdv.jpg",
-        "url":"https://pdv.comercioparalelo.com"
+    "projects": [      
+     {
+        "title":"Thuor",
+        "category":"DropShipper tools and payment processor",
+        "image":"./images/login.png",
+        "url":"https://app.thuor.com"
       }
     ]
   },
