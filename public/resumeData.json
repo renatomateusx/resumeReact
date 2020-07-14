@@ -51,6 +51,11 @@
     ],
     "work":[
 		{
+			"company":"Thuor",
+			"title":"Dev",
+			"years":"Freelancer",
+			"description":"WebApp made in VueJS for dropshippers increases your sales. Payment processor, many payments gateways and tools to increase sales. Integration with sohpify by API. https://app.thuor.com"
+		},{
 			"company":"Prodeb",
 			"title":"Technical Advisor",
 			"years":"May 2019 - Actual",
